@@ -68,3 +68,17 @@ This ensures transparency and interpretability of predictions.
 ## 💾 Model Saving
 
 The final trained pipeline (including preprocessing + model) is saved as:
+
+---
+
+## 🚀 How to Run This Project
+
+1. Clone the repository:
+
+2. Navigate to the project folder:
+
+3. Install required dependencies:
+
+4. Open and run the notebook:
+
+Make sure `loan_data.csv` is present in the same folder before running the notebook.
